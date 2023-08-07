@@ -26,3 +26,4 @@ production
 .sass-cache
 # User-specific .bazelrc
 user.bazelrc
+.vscode/
